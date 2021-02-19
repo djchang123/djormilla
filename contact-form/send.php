@@ -2,7 +2,7 @@
 /*------------------------------------
 	   YOUR EMAIL GOES HERE
 --------------------------------------*/
-$to = '<dresoftwaredevelopment@gmail.com>';
+$to = '<dresoftware@yahoo.com>';
 
 
 //Retrieve form data. 
