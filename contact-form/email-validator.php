@@ -1,5 +1,4 @@
 <?php
-$email='dresoftwaredevelopment@gmail.com';
     class EmailAddressValidator {
 
         /**
