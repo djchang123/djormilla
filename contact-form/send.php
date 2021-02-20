@@ -2,7 +2,6 @@
 /*------------------------------------
 	   YOUR EMAIL GOES HERE
 --------------------------------------*/
-$email='<dresoftwaredevelopment@gmail.com>';
 $to = '<dresoftware@yahoo.com>';
 
 
